@@ -1,0 +1,1 @@
+include ':app', ':module_a', ':module_b', ':playable', ':module_b_impl', ':module_a_impl'
